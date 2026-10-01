@@ -3,7 +3,7 @@
 > **Hardware reaproveitado + Linux customizado + IA educacional = um cyberdeck aberto, modular e experimental.**
 
 <p align="center">
-  <img src="[assets/branding/odisseia-banner.png](https://github.com/caesarcarl/Projeto-odisseia/blob/main/assets/screenshots/Monitor%20Hefestos%20OS%20em%20Forge%20Cibern%C3%A9tica.png)" alt="Projeto Odisseia" width="900">
+  <img src="https://github.com/caesarcarl/Projeto-odisseia/blob/main/assets/screenshots/Monitor%20Hefestos%20OS%20em%20Forge%20Cibern%C3%A9tica.png" alt="Projeto Odisseia" width="900">
 </p>
 
 <p align="center">
