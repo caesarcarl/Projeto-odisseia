@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Projeto Odisseia
+message: "Se este projeto for útil ao seu trabalho, cite este repositório."
+type: software
+authors:
+  - family-names: "Equipe Odisseia"
+repository-code: "https://github.com/caesarcarl/ODISSEIA"
+license: "NOASSERTION"
